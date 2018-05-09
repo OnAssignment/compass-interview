@@ -16,13 +16,13 @@ This assignment will be evaluated in two parts:
 
 ## Requirements
 
-- https://raw.githubusercontent.com/OnAssignment/compass-interview/master/data.json
-
-- Crawl all the links and print out summary statistics at the end:
+- Crawl all the links (below) and print out summary statistics at the end:
 	- total number of http requests performed throughout the entire application
 	- total number of successful requests
 	- total number of failed requests (hint: think about what makes something successful or failed)
 - You may use gradle, maven, docker, makefile, etc. --> use of gradle/maven wrappers is encouraged.
+
+Starting Point: https://raw.githubusercontent.com/OnAssignment/compass-interview/master/data.json
 
 ## What we are looking for?
 
