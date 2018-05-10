@@ -11,8 +11,6 @@ This assignment will be evaluated in two parts:
 - The application should detect circular links to prevent an infinite loop.
 - The application should use Java. Spring is acceptable too.
 - There must be sufficient tests.
-- Deployment will be by emailing a zip file or cloning a public git repo.
-
 
 ## Requirements
 
@@ -24,9 +22,14 @@ This assignment will be evaluated in two parts:
 
 Starting Point: https://raw.githubusercontent.com/OnAssignment/compass-interview/master/data.json
 
+## Deployment
+
+- Send us a link to your solution's git repo.
+- Expect us to build, test, packaging, and run your code.
+
 ## What we are looking for?
 
-- We want to see what you would produce as a working product. 
+- We want to see what you would produce as a working product.
+- We want to see what you value (e.g. clean code, 12-factor, dry, solid, verbose, terse, etc.).
 - We want to see how you think about all phases of developing software: building, testing, running, deploying
-- Any amount of building, packaging, running should be as minimal as possible. 
-- The overall goal is to run with minimal interaction. (i.e. one command is usually nice)
+- Any amount of building and packaging in order to run is fine; however, the overall goal is to run with **minimal user interaction**. (i.e. one command is usually nice, but not required)
