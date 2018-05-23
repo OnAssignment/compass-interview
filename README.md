@@ -1,9 +1,9 @@
 # Coding Interview Assignment
 
-This assignment will be evaluated in two parts:
+This assignment will be used as follows:
 
 1. Does the code work and meet the requirements specified below?
-2. It will provide a conversation piece for the in-person portion of interviews.
+2. It may be used to provide a conversation piece for another stage of interviews.
 
 ## Objectives
 
