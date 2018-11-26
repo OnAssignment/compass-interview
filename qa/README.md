@@ -24,18 +24,18 @@ The UX team is planing on putting these filters in a dedicated area (below the t
 
 ## What we are looking for?
 - We want to see how you approach the problem and get an idea of what is your mindset.
-- We're expecting your answers in a document or simple email.
+- We're expecting your answers in a document or a simple email.
 
 ## Appendix
 
 #### GHERKIN
-```
-"Gherkin is a plain-text language with a little extra structure. 
+
+> "Gherkin is a plain-text language with a little extra structure. 
 Gherkin is designed to be easy to learn by non-programmers, 
 yet structured enough to allow concise description of examples 
 to illustrate business rules in most real-world domains." 
 (taken from hiptest.com link below)
-```
+
 
 #### Links
 - https://docs.cucumber.io/gherkin/reference/
