@@ -4,7 +4,7 @@
 The product owner wants to improve the page "Compare Mac models" (https://www.apple.com/mac/compare/).
 
 ## Feature description:
-As a potential customer, I want to be hide or eliminate the products based on basic filters:
+As a potential customer, I want to hide or eliminate the products based on basic filters:
 - Laptop/Desktop computer
 - Price Range (< $1500, $1500 to $2500, > $2500)
 - Usage (Home use, Professional use)
