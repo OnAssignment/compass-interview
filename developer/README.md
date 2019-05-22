@@ -20,7 +20,7 @@ This assignment will be used as follows:
 	- total number of failed requests (hint: think about what makes something successful or failed)
 - You may use gradle, maven, docker, makefile, etc. --> use of gradle/maven wrappers is encouraged.
 
-Starting Point: https://raw.githubusercontent.com/OnAssignment/compass-interview/master/data.json
+Starting Point: https://raw.githubusercontent.com/OnAssignment/compass-interview/master/developer/data.json
 
 ## Deployment
 
